@@ -12,4 +12,3 @@ Flexbox
 https://www.figma.com/design/2cn9N9jSkmxD84oJik7xL7/JavaScript.-Sprint-4?node-id=0-1&node-type=canvas&t=uyoU4F0GgbsZLWc7-0
 
 ## Ссылка на проект gh pages:
-https://stas2429.github.io/project-5/
