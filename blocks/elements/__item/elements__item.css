@@ -1,0 +1,12 @@
+.elements__item {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 282px;
+  min-height: 361px;
+  position: relative;
+  background: #ffffff;
+  border-radius: 10px;
+  margin: 0 auto;
+  overflow: hidden; 
+}
